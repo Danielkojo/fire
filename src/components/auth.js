@@ -9,7 +9,7 @@ import SignUp from "../Pages/SignUp";
 
 
 export const Auth = ()=>{
-//set states of all inputs 
+//set states of all inputss
     const [email,setEmail]= useState("");
     const [password,setPassword]= useState("");
 
