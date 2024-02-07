@@ -9,7 +9,7 @@ export default function MovieDisplay(){
     const [moviesList,setMoviesList] = useState([ ]);
     const navigate =useNavigate();
     //New Movie State
-
+//
     //uptade title state
     const [updateTitle,setupdateTitle] = useState("");
     
