@@ -13,7 +13,7 @@ import MovieDisplay from './Pages/movieDisplay';
 import OptionsPage from './Pages/OptionsPage';
 import ManageUsers from './Admin/ManageUsers';
 import PurchaseProduct from './Pages/Products';
-
+//
 function App() {
   
   return (
